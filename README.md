@@ -30,4 +30,12 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/23_conCat.js">conCat</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/24_lastTwo.js">lastTwo</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/25_seeColor.js">seeColor</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/26_frontAgain.js">frontAgain</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/27_minCat.js">minCat</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/28_extraFront.js">extraFront</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/29_without2.js">without2</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/30_deFront.js">deFront</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/31_startWord.js">startWord</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/32_withoutX.js">withoutX</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/33_withoutX2.js">withoutX2</a></li>
 </ul>
