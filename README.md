@@ -1,5 +1,5 @@
 # CodingJS Solution
-This repo contains the solutions for the CodingBat JavaScript section
+This repo contains the solutions for the CodingJS JavaScript section <br>
 Link problems: https://the-winter.github.io/codingjs/
 
 ## 01. Warmup-1
@@ -22,7 +22,7 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
 </ul>
 
-## String-1
+<!-- ## String-1
 
 <ul>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/01_helloName.js">helloName</a></li>
@@ -58,4 +58,4 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/31_startWord.js">startWord</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/32_withoutX.js">withoutX</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/33_withoutX2.js">withoutX2</a></li>
-</ul>
+</ul> -->
