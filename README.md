@@ -4,6 +4,19 @@ Link problems: https://the-winter.github.io/codingjs/
 
 ## Warmup-1
 
+<ul>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/01_sleepIn.js">sleepIn</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/02_monkeyTrouble.js">monkeyTrouble</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/03_sumDouble.js">sumDouble</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/04._diff21.js">diff21</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/05_parrotTrouble.js">parrotTrouble</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
 ## String-1
 
 <ul>
