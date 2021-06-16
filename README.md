@@ -2,7 +2,7 @@
 This repo contains the solutions for the CodingBat JavaScript section
 Link problems: https://the-winter.github.io/codingjs/
 
-## Warmup-1
+## 01. Warmup-1
 
 <ul>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/01_sleepIn.js">sleepIn</a></li>
