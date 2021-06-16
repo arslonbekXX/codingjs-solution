@@ -15,6 +15,11 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/08_posNeg.js">posNeg</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/09_notString.js">notString</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/10_missingChar.js">missingChar</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/11_frontBack.js">frontBack</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/12.%20front3.js">front3</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/13_backAround.js">backAround</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/14_or35.js">or35</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
 </ul>
 
 ## String-1
