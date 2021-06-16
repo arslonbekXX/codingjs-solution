@@ -10,11 +10,11 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/03_sumDouble.js">sumDouble</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/04._diff21.js">diff21</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/05_parrotTrouble.js">parrotTrouble</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/06_makes10.js">makes10</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/07_nearHundred.js">nearHundred</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/08_posNeg.js">posNeg</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/09_notString.js">notString</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/10_missingChar.js">missingChar</a></li>
 </ul>
 
 ## String-1
