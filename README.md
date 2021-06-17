@@ -1,5 +1,5 @@
 # CodingJS Solution
-This repo contains the solutions for the CodingBat JavaScript section
+This repo contains the solutions for the CodingJS JavaScript section <br>
 Link problems: https://the-winter.github.io/codingjs/
 
 ## 01. Warmup-1
