@@ -20,12 +20,12 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/13_backAround.js">backAround</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/14_or35.js">or35</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
-  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
-  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
-  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
-  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
-  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
-  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 </ul>
 
 <!-- ## String-1
