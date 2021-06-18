@@ -2,7 +2,7 @@
 This repo contains the solutions for the CodingJS JavaScript section <br>
 Link problems: https://the-winter.github.io/codingjs/
 
-## 01. Warmup-1 <span style="font-size: 12px; color: #111;">(completed)</span>
+## 01. Warmup-1 ####<span>(completed)</span>
 
 <ul>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/01_sleepIn.js">sleepIn</a></li>
