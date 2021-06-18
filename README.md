@@ -25,6 +25,18 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/17_in1020.js">in1020</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/18_hasTeen.js">hasTeen</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/19_loneTeen.js">loneTeen</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/20_delDel.js">delDel</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 </ul>
 
 <!-- ## String-1
