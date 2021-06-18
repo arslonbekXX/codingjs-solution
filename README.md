@@ -32,8 +32,8 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/24_close10.js">close10</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/25_in3050.js">int3050</a></li>
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/28_max1020.js">max1020</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/29_stringE.js">stringE</a></li>
+  <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/30_lastDigit.js">lastDigit</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
