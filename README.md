@@ -38,6 +38,28 @@ Link problems: https://the-winter.github.io/codingjs/
   <li><a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/32_everyNth.js">everyNth</a></li>
 </ul>
 
+## 02. Warmup-2
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
 <!-- ## String-1
 
 <ul>
