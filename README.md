@@ -38,9 +38,9 @@ Link problems: https://the-winter.github.io/codingjs/
 
 ## 02. Warmup-2
 
-  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/01_stringTimes.js">stringTimes</a>,
-  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/02_frontTimes.js">frontTimes</a>,
-  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/03_countXX.js">countXX</a>,
-  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/04_doubleX.js">doubleX</a>,
-  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/05_stringBits.js">stringBits</a>,
-  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/06_stringSplosion.js">stringSplosion</a>,
+  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/01_stringTimes.js">stringTimes</a>✓
+  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/02_frontTimes.js">frontTimes</a>✓
+  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/03_countXX.js">countXX</a>✓
+  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/04_doubleX.js">doubleX</a>✓
+  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/05_stringBits.js">stringBits</a>✓
+  <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/06_stringSplosion.js">stringSplosion</a>✓
