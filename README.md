@@ -72,17 +72,16 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/11_left2.js">left2</a> ✓ <br>
       </td>
       <td>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/12.%20front3.js">front3</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/13_backAround.js">backAround</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/14_or35.js">or35</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/15_front22.js">front22</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/16_icyHot.js">icyHot</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/16_startHi.js">startHi</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/17_in1020.js">in1020</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/18_hasTeen.js">hasTeen</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/19_loneTeen.js">loneTeen</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/20_delDel.js">delDel</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/21_mixStart.js">mixStart</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/12_right2.js">right2</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/13_theEnd.js">theEnd</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/14_withoutEnd2.js">withoutEnd2</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/15_middleTwo.js">middleTwo</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/16_endsLy.js">endyLs</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/17_nTwice.js">nTwice</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/18_twoChar.js">twoChar</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/19_middleThree.js">middleThree</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/20_hasBad.js">hasBad</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/21_atFirst.js">atFirst</a> ✓ <br>
       </td>
       <td>
          The next <br>
