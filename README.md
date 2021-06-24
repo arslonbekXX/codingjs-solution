@@ -15,9 +15,8 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/07_firstHalf.js">firstHalf</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/08_withoutEnd.js">withoutEnd</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/09_comboString.js">comboString</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/09_notString.js">notString</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/10_missingChar.js">missingChar</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/11_frontBack.js">frontBack</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/10_nonStart.js">nonStart</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/11_left2.js">left2</a> ✓ <br>
       </td>
       <td>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/12.%20front3.js">front3</a> ✓ <br>
