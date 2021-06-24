@@ -2,7 +2,7 @@
 This repo contains the solutions for the CodingJS JavaScript section <br>
 Link problems: https://the-winter.github.io/codingjs/
 
-## 01. Warmup-1
+## Warmup-1
 
 <table>
    <tr>
@@ -46,7 +46,7 @@ Link problems: https://the-winter.github.io/codingjs/
    </tr>
 </table>
 
-## 02. Warmup-2
+## Warmup-2
 
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/01_stringTimes.js">stringTimes</a> ✓ <br>
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/02_frontTimes.js">frontTimes</a> ✓ <br>
@@ -55,7 +55,7 @@ Link problems: https://the-winter.github.io/codingjs/
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/05_stringBits.js">stringBits</a> ✓ <br>
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/06_stringSplosion.js">stringSplosion</a> ✓ <br>
 
-## 03. String-1
+## String-1
 
 <table>
    <tr>
