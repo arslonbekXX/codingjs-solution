@@ -86,15 +86,7 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/21_mixStart.js">mixStart</a> ✓ <br>
       </td>
       <td>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/22_startOz.js">startOz</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/23_intMax.js">intMax</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/24_close10.js">close10</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/25_in3050.js">int3050</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/28_max1020.js">max1020</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/29_stringE.js">stringE</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/30_lastDigit.js">lastDigit</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/31_endUp.js">endUp</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/32_everyNth.js">everyNth</a> ✓ <br>
+         
       </td>
    </tr>
 </table>
