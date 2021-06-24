@@ -63,6 +63,7 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/01_helloName.js">helloName</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/02_makeAbba.js">makeAbba</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/03_makeTags.js">makeTags</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/04_makeOutWord.js">makeOutWorld</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/05_extraEnd.js">extraEnd</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/06_firstTwo.js">firstTwo</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/07_firstHalf.js">firstHalf</a> ✓ <br>
@@ -82,6 +83,7 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/19_middleThree.js">middleThree</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/20_hasBad.js">hasBad</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/21_atFirst.js">atFirst</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/22_lastChars.js">lastChars</a> ✓ <br>
       </td>
       <td>
          The next <br>
