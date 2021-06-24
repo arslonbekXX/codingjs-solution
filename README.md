@@ -86,7 +86,7 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/21_mixStart.js">mixStart</a> ✓ <br>
       </td>
       <td>
-         
+         1
       </td>
    </tr>
 </table>
