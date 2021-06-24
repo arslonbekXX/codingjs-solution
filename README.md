@@ -7,16 +7,17 @@ Link problems: https://the-winter.github.io/codingjs/
 <table>
    <tr>
       <td>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/01_helloName.js">helloName</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/02_makeAbba.js">makeAbba</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/03_makeTags.js">makeTags</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/05_extraEnd.js">extraEnd</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/06_firstTwo.js">firstTwo</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/07_firstHalf.js">firstHalf</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/08_withoutEnd.js">withoutEnd</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/09_comboString.js">comboString</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/10_nonStart.js">nonStart</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/11_left2.js">left2</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/01_sleepIn.js">sleepIn</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/02_monkeyTrouble.js">monkeyTrouble</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/03_sumDouble.js">sumDouble</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/04._diff21.js">diff21</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/05_parrotTrouble.js">parrotTrouble</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/06_makes10.js">makes10</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/07_nearHundred.js">nearHundred</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/08_posNeg.js">posNeg</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/09_notString.js">notString</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/10_missingChar.js">missingChar</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/11_frontBack.js">frontBack</a> ✓ <br>
       </td>
       <td>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/12.%20front3.js">front3</a> ✓ <br>
@@ -59,17 +60,16 @@ Link problems: https://the-winter.github.io/codingjs/
 <table>
    <tr>
       <td>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/01_sleepIn.js">sleepIn</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/02_monkeyTrouble.js">monkeyTrouble</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/03_sumDouble.js">sumDouble</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/04._diff21.js">diff21</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/05_parrotTrouble.js">parrotTrouble</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/06_makes10.js">makes10</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/07_nearHundred.js">nearHundred</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/08_posNeg.js">posNeg</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/09_notString.js">notString</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/10_missingChar.js">missingChar</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/11_frontBack.js">frontBack</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/01_helloName.js">helloName</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/02_makeAbba.js">makeAbba</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/03_makeTags.js">makeTags</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/05_extraEnd.js">extraEnd</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/06_firstTwo.js">firstTwo</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/07_firstHalf.js">firstHalf</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/08_withoutEnd.js">withoutEnd</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/09_comboString.js">comboString</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/10_nonStart.js">nonStart</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/11_left2.js">left2</a> ✓ <br>
       </td>
       <td>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/12.%20front3.js">front3</a> ✓ <br>
