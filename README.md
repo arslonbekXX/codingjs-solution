@@ -2,7 +2,7 @@
 This repo contains the solutions for the CodingJS JavaScript section <br>
 Link problems: https://the-winter.github.io/codingjs/
 
-## 01. Warmup-1
+## Warmup-1
 
 <table>
    <tr>
@@ -46,7 +46,7 @@ Link problems: https://the-winter.github.io/codingjs/
    </tr>
 </table>
 
-## 02. Warmup-2
+## Warmup-2
 
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/01_stringTimes.js">stringTimes</a> ✓ <br>
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/02_frontTimes.js">frontTimes</a> ✓ <br>
@@ -54,3 +54,41 @@ Link problems: https://the-winter.github.io/codingjs/
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/04_doubleX.js">doubleX</a> ✓ <br>
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/05_stringBits.js">stringBits</a> ✓ <br>
   <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-2/06_stringSplosion.js">stringSplosion</a> ✓ <br>
+
+## String-1
+
+<table>
+   <tr>
+      <td>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/01_helloName.js">helloName</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/02_makeAbba.js">makeAbba</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/03_makeTags.js">makeTags</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/04_makeOutWord.js">makeOutWorld</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/05_extraEnd.js">extraEnd</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/06_firstTwo.js">firstTwo</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/07_firstHalf.js">firstHalf</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/08_withoutEnd.js">withoutEnd</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/09_comboString.js">comboString</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/10_nonStart.js">nonStart</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/11_left2.js">left2</a> ✓ <br>
+      </td>
+      <td>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/12_right2.js">right2</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/13_theEnd.js">theEnd</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/14_withoutEnd2.js">withoutEnd2</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/15_middleTwo.js">middleTwo</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/16_endsLy.js">endyLs</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/17_nTwice.js">nTwice</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/18_twoChar.js">twoChar</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/19_middleThree.js">middleThree</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/20_hasBad.js">hasBad</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/21_atFirst.js">atFirst</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/22_lastChars.js">lastChars</a> ✓ <br>
+      </td>
+      <td>
+         The next <br>
+         solutions are <br>
+         coming!
+      </td>
+   </tr>
+</table>
