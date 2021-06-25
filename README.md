@@ -92,7 +92,7 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/26_frontAgain.js">frontAgain</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/27_minCat.js">minCat</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/28_extraFront.js">extraFront</a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/18_twoChar.js">twoChar</a> ✓ <br>
+         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/29_without2.js">withOut2</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/19_middleThree.js">middleThree</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/20_hasBad.js">hasBad</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/21_atFirst.js">atFirst</a> ✓ <br>
