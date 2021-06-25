@@ -95,7 +95,7 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/29_without2.js">withOut2</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/30_deFront.js">deFront</a> ✓ <br>
          <a href=""></a> ✓ <br>
-         <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/21_atFirst.js"></a> ✓ <br>
+         <a href=""></a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/String-1/22_lastChars.js"></a> ✓ <br>
       </td>
    </tr>
