@@ -42,7 +42,8 @@ Link problems: https://the-winter.github.io/codingjs/
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/30_lastDigit.js">lastDigit</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/31_endUp.js">endUp</a> ✓ <br>
          <a href="https://github.com/sharipovme/codingjs-solution/blob/main/Warmup-1/32_everyNth.js">everyNth</a> ✓ <br>
-         <a>.</a>
+         <a>.</a><br>
+         <a>.</a><br>
          <a>.</a>
       </td>
    </tr>
